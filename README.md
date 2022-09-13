@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @ivdevelopment
-- 👀 I’m interested in web design, web developing and scripting
-- 🌱 I’m currently learning advanced css, bootstrap, js
+- 👀 I’m interested in software development, web development and scripting
+- 🌱 I’m currently learning C#, Reg.Ex, ASP.NET, XML
 - 💞️ I’m looking to collaborate on a website to improve my skills on working in a team
 - 📫 You can reach me on discord GodFM#8438
 
